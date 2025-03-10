@@ -21,4 +21,4 @@ This project implements a **2-Approximation Algorithm** for solving the TSP prob
 [▶️ Open Notebook](https://colab.research.google.com/drive/17vxuo4KLRS0NEyybZ6BvIfcPXHeFJtks)
 
 ## 📖 Read the Blog:  
-[▶️ Blog Link (To be added)]
+[▶️ Blog Link]([https://colab.research.google.com/drive/17vxuo4KLRS0NEyybZ6BvIfcPXHeFJtks](https://medium.com/@bagekarvaishnavi45/cracking-the-traveling-salesperson-problem-without-losing-your-sanity-d11ce0f6ee9e))
